@@ -15,3 +15,8 @@ hs_err_pid*
 .gitignore
 .gradle/
 .idea/
+gradle/
+gradlew
+build/
+*.jar
+settings.gradle
